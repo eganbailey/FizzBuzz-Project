@@ -1,0 +1,34 @@
+body{
+font-family: sans-serif;
+background-color: lightgreen;
+}
+#results, #alert{
+display:none;
+
+}
+#alert{
+color: orange;
+}
+#thanks{
+color:blue;
+}
+li{
+list-style:none;
+margin-left:-2.3em;
+}
+.choice {
+color: DodgerBlue;
+}
+.fizz {
+color: Fuchsia;
+}
+.buzz {
+color: DarkViolet;
+}
+.fizzbuzz {
+color: GoldenRod;
+}
+#userInputTextfield{
+text-align: right;
+width: 5em;
+}
